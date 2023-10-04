@@ -1,0 +1,66 @@
+{
+    "parent": "item/kar98k",
+    "overrides": [
+        {
+            "predicate": {
+                "pulling": 1
+            },
+            "model": "item/kar98k_pul-0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.1
+            },
+            "model": "item/kar98k_pul-1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.25
+            },
+            "model": "item/kar98k_pul-2"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.4
+            },
+            "model": "item/kar98k_pul-3"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.55
+            },
+            "model": "item/kar98k_pul-4"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.7
+            },
+            "model": "item/kar98k_pul-5"
+        },
+	{
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.85
+            },
+            "model": "item/kar98k_pul-6"
+        },
+	{
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "item/kar98k_pul-7"
+        },
+        {
+            "predicate": {
+                "charged": 1
+            },
+            "model": "item/kar98k_arrow"
+        }
+    ]
+}
